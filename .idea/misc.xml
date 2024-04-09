@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../learn-akka/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/bluavenunet/api" value="PREVIEW" />
+        <entry key="$USER_HOME$/finance/sale" value="PREVIEW" />
+        <entry key="$USER_HOME$/micro-service/online-auction-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/microservice/hello-world" value="PREVIEW" />
+        <entry key="$USER_HOME$/microservice/lagom-samples-lagom-scala-grpc-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/microservice/lagom-samples/shopping-cart/shopping-cart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/rew3-projects/account" value="PREVIEW" />
+        <entry key="$USER_HOME$/rew3-projects/api" value="PREVIEW" />
+        <entry key="$USER_HOME$/rew3-projects/api-gateway" value="PREVIEW" />
+        <entry key="$USER_HOME$/rew3-projects/avenue-protobuf" value="PREVIEW" />
+        <entry key="$USER_HOME$/rew3-projects/bluavenunet/api" value="PREVIEW" />
+        <entry key="$USER_HOME$/rew3-projects/crm" value="PREVIEW" />
+        <entry key="$USER_HOME$/rew3-projects/dms" value="PREVIEW" />
+        <entry key="$USER_HOME$/rew3-projects/mailer" value="PREVIEW" />
+        <entry key="$USER_HOME$/rew3-projects/notification" value="PREVIEW" />
+        <entry key="$USER_HOME$/rew3-projects/platform-v2" value="PREVIEW" />
+        <entry key="$USER_HOME$/rew3-projects/play-send-contact" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>
